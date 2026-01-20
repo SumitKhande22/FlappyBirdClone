@@ -1,0 +1,102 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\khand\\2D_Game\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DDCB4815-71A6-2267-59EE-460CA8A9004F}|Assembly-CSharp.csproj|C:\\Users\\khand\\2D_Game\\assets\\scripts\\managers\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDCB4815-71A6-2267-59EE-460CA8A9004F}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\managers\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDCB4815-71A6-2267-59EE-460CA8A9004F}|Assembly-CSharp.csproj|c:\\users\\khand\\2d_game\\assets\\scripts\\managers\\scoremanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDCB4815-71A6-2267-59EE-460CA8A9004F}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\managers\\scoremanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDCB4815-71A6-2267-59EE-460CA8A9004F}|Assembly-CSharp.csproj|C:\\Users\\khand\\2D_Game\\assets\\scripts\\addscore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDCB4815-71A6-2267-59EE-460CA8A9004F}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\addscore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDCB4815-71A6-2267-59EE-460CA8A9004F}|Assembly-CSharp.csproj|C:\\Users\\khand\\2D_Game\\assets\\scripts\\managers\\audiomanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDCB4815-71A6-2267-59EE-460CA8A9004F}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\managers\\audiomanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDCB4815-71A6-2267-59EE-460CA8A9004F}|Assembly-CSharp.csproj|C:\\Users\\khand\\2D_Game\\assets\\scripts\\player_scripts\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDCB4815-71A6-2267-59EE-460CA8A9004F}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player_scripts\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GameManager.cs",
+              "DocumentMoniker": "C:\\Users\\khand\\2D_Game\\Assets\\Scripts\\Managers\\GameManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Managers\\GameManager.cs",
+              "ToolTip": "C:\\Users\\khand\\2D_Game\\Assets\\Scripts\\Managers\\GameManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Managers\\GameManager.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAACUAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-12T16:42:02.437Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AudioManager.cs",
+              "DocumentMoniker": "C:\\Users\\khand\\2D_Game\\Assets\\Scripts\\Managers\\AudioManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Managers\\AudioManager.cs",
+              "ToolTip": "C:\\Users\\khand\\2D_Game\\Assets\\Scripts\\Managers\\AudioManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Managers\\AudioManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-12T16:35:16.6Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AddScore.cs",
+              "DocumentMoniker": "C:\\Users\\khand\\2D_Game\\Assets\\Scripts\\AddScore.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\AddScore.cs",
+              "ToolTip": "C:\\Users\\khand\\2D_Game\\Assets\\Scripts\\AddScore.cs",
+              "RelativeToolTip": "Assets\\Scripts\\AddScore.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-12T16:24:19.719Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PlayerController.cs",
+              "DocumentMoniker": "C:\\Users\\khand\\2D_Game\\Assets\\Scripts\\Player_Scripts\\PlayerController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Player_Scripts\\PlayerController.cs",
+              "ToolTip": "C:\\Users\\khand\\2D_Game\\Assets\\Scripts\\Player_Scripts\\PlayerController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Player_Scripts\\PlayerController.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAACEAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-12T16:13:12.361Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ScoreManager.cs",
+              "DocumentMoniker": "C:\\Users\\khand\\2D_Game\\Assets\\Scripts\\Managers\\ScoreManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Managers\\ScoreManager.cs",
+              "ToolTip": "C:\\Users\\khand\\2D_Game\\Assets\\Scripts\\Managers\\ScoreManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Managers\\ScoreManager.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAABBwD8AAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-10T14:06:40.477Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
